@@ -1,1 +1,1 @@
-{"action":{"default_icon":"icon.png","default_popup":"popup.html"},"permissions":["activeTab"],"manifest_version":3,"name":"Dirter","description":"엔트리 이야기 검열 우회 프로그램 (Thanks deepl),"version":"0.1"}
+{"action":{"default_icon":"icon.png","default_popup":"popup.html"},"permissions":["activeTab"],"manifest_version":3,"name":"Dirter","description":"엔트리 이야기 검열 우회 프로그램 (Thanks deepl)","version":"0.1"}
